@@ -129,7 +129,7 @@ IBM watsonx.ai + IBM Granite Models + LangFlow
 ## Author
 
 
-C. Pushpalatha
+C Pushpalatha
 
 Master of Computer Applications (MCA)
 
